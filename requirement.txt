@@ -1,0 +1,9 @@
+pytorch==1.13.0
+numpy==1.23.4
+opencv-python
+einops==0.3.0
+kornia==0.4.1
+yacs>=0.1.8
+scipy==1.9.3
+loguru
+timm==0.4.12
