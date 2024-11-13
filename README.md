@@ -11,4 +11,4 @@ Create the environment
 ```
 pip install -r requirements.txt
 ```
-Files maxflow_v303.dll and line_python.dll are obtained by compiling c++ source codes on Windows using VS2017 and OpenCV3.4.0. You can also compile them by yourself.
+maxflow_v303.dll and line_python.dll are compiled files of c++ source codes maxflow_v303 and line_python.cpp, respectively. We compiled them on Windows using VS2017 and OpenCV3.4.0. Please download and add opencv_world340.dll in the main folder. You can also compile them by yourself.
