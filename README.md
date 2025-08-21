@@ -1,5 +1,5 @@
 # dense-matching-image-stitching
-This is the official repository of paper "Seam Estimation Based on Dense Matching for Parallax-tolerant Image Stitching". Computer Vision and Image Understanding, 2024.
+This is the official repository of paper "Seam Estimation Based on Dense Matching for Parallax-tolerant Image Stitching". Computer Vision and Image Understanding, 2024.[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S107731422400300X)]
 ## Methodology
 ![pipeline0](https://github.com/user-attachments/assets/1f5b3773-fb6f-4666-9472-99a2013ce984)
 ## Installation
@@ -19,4 +19,3 @@ maxflow_v303.dll and line_python.dll are compiled files of c++ source codes maxf
 ```
 python demo.py
 ```
-## Citation
